@@ -11,5 +11,4 @@ pyvenv.cfg
 __pycache__/
 *.py[cod]
 
-# Documentos PDF (opcional, si no quieres que el repo pese mucho)
 # data/*.pdf
