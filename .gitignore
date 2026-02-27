@@ -1,0 +1,15 @@
+# Entornos virtuales
+env_bnc/
+env/
+venv/
+bin/
+lib/
+share/
+pyvenv.cfg
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Documentos PDF (opcional, si no quieres que el repo pese mucho)
+# data/*.pdf
